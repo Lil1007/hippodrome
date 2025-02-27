@@ -1,0 +1,16 @@
+2025-02-28 00:00:13,831 ERROR Hippodrome: Horses list is null
+2025-02-28 00:00:13,845 ERROR Hippodrome: Horses list is null
+2025-02-28 00:00:13,846 ERROR Hippodrome: Horses cannot be empty
+2025-02-28 00:00:14,264 ERROR Hippodrome: Horses cannot be empty
+2025-02-28 00:00:14,605 ERROR Horse: Name is null
+2025-02-28 00:00:14,629 ERROR Horse: Name cannot be blank
+2025-02-28 00:00:14,630 ERROR Horse: Name cannot be blank
+2025-02-28 00:00:14,631 ERROR Horse: Name cannot be blank
+2025-02-28 00:00:14,632 ERROR Horse: Speed cannot be negative
+2025-02-28 00:00:14,635 ERROR Horse: Speed cannot be negative
+2025-02-28 00:00:14,639 ERROR Horse: Distance cannot be negative
+2025-02-28 00:00:14,641 ERROR Horse: Name cannot be blank
+2025-02-28 00:00:14,642 ERROR Horse: Name cannot be blank
+2025-02-28 00:00:14,645 ERROR Horse: Name cannot be blank
+2025-02-28 00:00:14,656 ERROR Horse: Distance cannot be negative
+2025-02-28 00:00:14,661 ERROR Horse: Name is null
